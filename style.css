@@ -1,0 +1,132 @@
+body
+{
+    background-color: lawngreen;
+    margin: 0%;
+}
+.containr
+{
+    position:relative;
+    max-width: 800px;
+}
+.containr .content
+{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+h1
+{
+    font-size: 40px;
+    font-style: italic;
+}
+.text
+{
+    margin-left: 50px;
+    color: rgb(139, 108, 139);
+}
+p
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+a
+{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.factory
+{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.atports
+{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.whatwemake
+{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.parent
+{
+    display: block;
+    text-align: center;
+}
+.child
+{
+    display: inline-table;
+}
+.baby
+{
+    margin-left: 250px;
+}
+.some
+{
+    margin-left: 250px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.crippling
+{
+    color: cornflowerblue;
+}
+
+.girl
+{
+  margin-left: 250px;
+}
+.Jeannine
+{
+    margin-left: 250px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.teta
+{
+  margin-left: 250px;
+}
+.makes
+{
+    margin-left: 250px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.shoes
+{
+  margin-left: 250px;
+}
+.nervous
+{
+    margin-left: 250px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.twitter
+{
+    color: cornflowerblue;
+}
+.facebook
+{
+    color: cornflowerblue;
+}
+h5
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.cora
+{
+    color: cornflowerblue;
+}
+footer
+{
+    bottom: 0%;
+    text-align: center;
+}
